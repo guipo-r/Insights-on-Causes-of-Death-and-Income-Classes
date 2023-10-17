@@ -1,3 +1,5 @@
+![image](https://github.com/guipo-r/Insights-on-Causes-of-Death-and-Income-Classes/assets/117786253/fdd73e45-b910-4b66-adac-7392db80c935)
+
 # Insights-on-Causes-of-Death-and-Income-Classes
 #### Guido Rocatti
 Data Analysis interview assignment. Data cleaning and Analysis of Causes of Death Public Database.
